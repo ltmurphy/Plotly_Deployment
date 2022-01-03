@@ -1,0 +1,10 @@
+body {
+
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .jumbotron {
+    text-align: center;
+    color: rgb(32, 52, 233);
+  } 
